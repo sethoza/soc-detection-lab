@@ -1,1 +1,1 @@
-# wazuh-siem-alert-detection-lab
+# SOC-detection-lab
