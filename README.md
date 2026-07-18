@@ -12,5 +12,4 @@ Real-world detection of attacks, alert analysis, and mapping findings to MITRE A
 
 ## Labs
 - ✅ [SSH Brute Force Detection](./labs/01-ssh-brute-force-detection.md)
-- ⬜ [Malware Detection](./labs/02-malware-detection.md)
-- ⬜ [File Integrity Monitoring](./labs/03-file-integrity.md)
+
