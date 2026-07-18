@@ -3,7 +3,7 @@
 ## Featured Lab
 **SSH Brute Force Detection**  
 Detected a password spray attack using Hydra → Wazuh Rule 5763 (MITRE T1110).  
-[View full write-up](./labs/01-ssh-brute-force-detection.md)
+[View full write-up with screenshots](./labs/01-ssh-brute-force-detection.md)
 
 Hands-on SIEM detection labs using Wazuh.
 
