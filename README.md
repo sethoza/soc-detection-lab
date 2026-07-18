@@ -3,7 +3,7 @@
 Hands-on SIEM detection labs using Wazuh.
 
 ## What This Demonstrates
-Real-world detection of attacks (brute force, malware, etc.), alert analysis, and mapping findings to MITRE ATT&CK.
+Real-world detection of attacks, alert analysis, and mapping findings to MITRE ATT&CK.
 
 ## Tools Used
 - Wazuh
@@ -11,4 +11,7 @@ Real-world detection of attacks (brute force, malware, etc.), alert analysis, an
 - Ubuntu Server
 
 ## Labs
-- [SSH Brute Force Detection](./labs/01-ssh-brute-force-detection.md)
+- [SSH Brute Force Detection](./labs/01-ssh-brute-force-detection.md) [x]
+- [Malware Detection](./labs/02-malware-detection.md)
+- [File Integrity Monitoring](./labs/03-file-integrity.md)
+- ...
