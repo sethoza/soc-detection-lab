@@ -49,22 +49,20 @@ both sides see. It showed me the value of a SIEM. Besides detecting the threat, 
 
 ## Screenshots
 
-**1. Wazuh dashboard — 128 auth failures + MITRE chart**
-![Wazuh dashboard showing 128 authentication failures](images/lab-01/01-dashboard.png)
+**1. Wazuh dashboard – 128 auth failures + MITRE chart**  
+![Wazuh dashboard showing 128 authentication failures](../images/ssh-brute-force/01-dashboard.png)
 
-**2. Alert detail — attacker IP, username, raw log**
-![Document details showing source IP and raw sshd log](images/lab-01/02-alert-detail.png)
+**2. Alert detail – attacker IP, username, raw log**  
+![Document details showing source IP and raw sshd log](../images/ssh-brute-force/02-alert-detail.png)
 
-**3. Hydra attack running from Kali**
-![Hydra brute force attack attempts scrolling on Kali](images/lab-01/03-hydra-attack.png)
+**3. Hydra attack running from Kali**  
+![Hydra brute force attack attempts scrolling on Kali](../images/ssh-brute-force/03-hydra-attack.png)
 
-**4. Events filtered by Rule 5763**
-![Events view filtered to rule 5763 brute force](images/lab-01/04-rule-5763-events.png)
+**4. Events filtered by Rule 5763**  
+![Events view filtered to rule 5763 brute force](../images/ssh-brute-force/04-rule-5763-events.png)
 
-**5. Rule 5763 definition — MITRE + compliance frameworks**
-![Rule 5763 showing MITRE and compliance mappings](images/lab-01/05-rule-definition.png)
-
-
+**5. Rule 5763 definition – MITRE + compliance frameworks**  
+![Rule 5763 showing MITRE and compliance mappings](../images/ssh-brute-force/05-rule-definition.png)
 ---
 *End of Report*
 
