@@ -25,8 +25,8 @@ I wanted to simulate a simple network sniffing exercise that SOC analysts work w
 
 **Targets:**
 
-- **Plaintext:** `httpforever.com` — a site intentionally served over plain HTTP
-- **Encrypted:** `krebsonsecurity.com` — a normal HTTPS site
+- **Plaintext:** `httpforever.com` 
+- **Encrypted:** `krebsonsecurity.com` 
 
 **Capture files:**
 
