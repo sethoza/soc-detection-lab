@@ -81,6 +81,7 @@ I wanted to simulate a simple network sniffing exercise that SOC analysts work w
 
 - The exact URL/path and the page content.
 
+---
 
-
+_End of Report_
 
