@@ -19,7 +19,7 @@ The main goal of this lab was to simulate an SSH brute-force attack. I used a Ka
 **Tools used:**
 - **Hydra** - SSH brute-force attack tool
 - **Wazuh** - open-source SIEM for detection and alerting
-- **sed / grep** - used to build and verify a custom password wordlist
+
 
 **Target account:** `astorm` (local user on the Ubuntu host)
 
