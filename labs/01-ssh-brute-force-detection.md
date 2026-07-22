@@ -1,6 +1,6 @@
 # Detecting an SSH Brute-Force Attack with Wazuh
 **Author:** Alvin Espinoza
-**Date:** 2026-07-17
+**Date:** 07/17/2026
 **Focus Area:** SOC Detection
 
 ---
